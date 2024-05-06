@@ -9,10 +9,16 @@ SpringBoot+Vue前后端分离入门项目,内容较少只能算入门级项目�
 
 
 #### 安装教程
-
+前端工程运行前需先用管理员方式打开命令框输入npm install安装node版本需为16.20.0及以下
+安装完使用npm run dev运行项目
 
 #### 使用说明
-前端需命令框输入npm install安装依赖，再输入npm run dev 运行即可
+后端：
+	端口号：9999
+	访问接口：http://localhost:9999/user/
+前端：
+	端口号：8888
+	访问路径：http://localhost:8888/user/login
 
 #### 参与贡献
 

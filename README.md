@@ -13,13 +13,5 @@ SpringBoot+Vue前后端分离入门项目,内容较少只能算入门级项目�
 安装完使用npm run dev运行项目
 后端直接导入IDEA，更改Maven配置即可
 
-#### 使用说明
-后端：
-	端口号：9999
-	访问接口：http://localhost:9999/user/
-
-前端：
-	端口号：8888
-	访问路径：http://localhost:8888/user/login
-
 #### 部分页面
+![输入图片说明](%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20240506142039.png)

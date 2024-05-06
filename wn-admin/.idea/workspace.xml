@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0c3b309-5761-49ef-bf85-78ffdc9a3cd8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\program\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../GJ Files/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\GJ Files\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PM7VfG5NT4kZBRd0aZB3mdFFxR" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/IdeaProjects/boot01_2108",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "9d9068bbf5f6ca7bd9a516d355ee4993",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.WnAdminApplication">
+    <configuration name="CodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lantu.CodeGenerator" />
+      <module name="wn-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lantu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WnAdminApplicationTests.textMapper" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wn-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lantu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lantu" />
+      <option name="MAIN_CLASS_NAME" value="com.lantu.WnAdminApplicationTests" />
+      <option name="METHOD_NAME" value="textMapper" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WnAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="wn-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lantu.WnAdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WnAdminApplicationTests.textMapper" />
+        <item itemvalue="Application.CodeGenerator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0c3b309-5761-49ef-bf85-78ffdc9a3cd8" name="Default Changelist" comment="" />
+      <created>1683255124344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683255124344</updated>
+      <workItem from="1683255125479" duration="21204000" />
+      <workItem from="1683287814014" duration="3723000" />
+      <workItem from="1683292764600" duration="17235000" />
+      <workItem from="1683452847654" duration="6310000" />
+      <workItem from="1683879963118" duration="94000" />
+      <workItem from="1684485412783" duration="474000" />
+      <workItem from="1688040555707" duration="1201000" />
+      <workItem from="1688043163480" duration="349000" />
+      <workItem from="1689062095585" duration="147000" />
+      <workItem from="1689067360467" duration="778000" />
+      <workItem from="1689121349273" duration="2000" />
+      <workItem from="1689126053901" duration="96000" />
+      <workItem from="1689126441228" duration="133000" />
+      <workItem from="1689126948762" duration="12000" />
+      <workItem from="1689127905270" duration="1000" />
+      <workItem from="1689129486829" duration="1000" />
+      <workItem from="1714572426256" duration="180000" />
+      <workItem from="1714572748496" duration="1986000" />
+      <workItem from="1714574884477" duration="434000" />
+      <workItem from="1714576401964" duration="516000" />
+      <workItem from="1714577543292" duration="5092000" />
+      <workItem from="1714628269094" duration="815000" />
+      <workItem from="1714729848664" duration="1211000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

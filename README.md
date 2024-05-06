@@ -1,23 +1,18 @@
 # SpringBoot+Vue
 
 #### 介绍
-SpringBoot+Vue前后端分离入门项目
+SpringBoot+Vue前后端分离入门项目,内容较少只能算入门级项目，基本的增删改查，分页都有
 
 #### 软件架构
-软件架构说明
+前端： Vue + Element UI + Echarts + Vuecli + Vuex
+后端： SpringBoot + Mysql + Redis + MyBatisPlus
 
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
 
 #### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+前端需命令框输入npm install安装依赖，再输入npm run dev 运行即可
 
 #### 参与贡献
 
